@@ -1,7 +1,7 @@
 Description<br/>
 
 
-             Code1: Individual imges have been extracted fram a movie file which is acquried at 30Hz and then converted them to grey scale.
+             Code1: Individual imges have been extracted from a movie file which is acquried at 30Hz and then converted them to grey scale.
 
              code:2 A vertical line as been taken through a particular point on the image file(not grey scale) and plotted the average and rms values of the intensity along the line.
 
